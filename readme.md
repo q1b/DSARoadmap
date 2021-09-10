@@ -7,7 +7,6 @@ Want to understand Data structure
 
 - Data structres
 	- Bitwise Operations
-  - Recursion
   - Arrays
       - [building Array from  scratch](https://youtu.be/o3mNj2N5m2U)
   - Linked Lists
@@ -27,6 +26,7 @@ Want to understand Data structure
 		- Heaps (Peek) -->
   - Graphs
 - Algorithims
+  - Recursion
   - Sorting algoritms
     - Bubble sort 
     - Selection sort 
@@ -41,7 +41,7 @@ Want to understand Data structure
     - Breath First Search
     - Depth First Search
   - Dynamic Programming
-  
+
 # Time Complexity & Big O Notation
 
 [Anuj Bhaiya in Hindi](https://youtu.be/N89PN_uyelU)
